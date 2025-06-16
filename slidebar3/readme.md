@@ -15,7 +15,7 @@ Here's a preview of the sidebar:
 </table>
 
 ## 🚀 Live Demo 
-🔗  Try it live now:- [SLIDEBAR-3](https://innovativesumit.github.io/SLIDEBAR-3/)
+🔗  Try it live now:- [SLIDEBAR-3](https://slidebar-3.netlify.app/)
 
 
 
