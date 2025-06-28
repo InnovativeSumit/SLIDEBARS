@@ -9,7 +9,7 @@ Here's a preview of the sidebar:
 
 <table>
   <tr>
-    <td><img src="" alt="Sidebar Screenshot 2" width="300" height="850" /></td>
+    <td><img src="https://github.com/user-attachments/assets/0266e5be-06ba-45df-93e6-1572c82ec57e" alt="Sidebar Screenshot 2" width="300" height="850" /></td>
   </tr>
 </table>
 
