@@ -15,7 +15,7 @@ Here's a preview of the sidebar:
 
 ## 🚀 Live Demo
 
-🔗  Try it live now:- [SLIDEBAR-6](https://innovativesumit.github.io/SLIDEBAR-7/)
+🔗  Try it live now:- [SLIDEBAR-6](https://innovativesumit.github.io/SLIDEBAR-6/)
 
 
 
