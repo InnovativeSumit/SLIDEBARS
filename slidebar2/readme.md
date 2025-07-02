@@ -3,22 +3,6 @@
 A **modern and interactive sidebar** built using **HTML**, **CSS**, and **JavaScript**. This sidebar can be easily integrated into any website or web application to provide a sleek and responsive navigation experience. Perfect for learning how to build interactive UI elements with a smooth user interface.
 
 
-## 📸 Screenshots
-
-Here's a preview of the sidebar:
-
-<table>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/5e4c298a-eb01-4f5b-a313-92184cb76503" alt="Sidebar Screenshot 1" width="90" height="850" /></td>
-    <td><img src="https://github.com/user-attachments/assets/47daed59-53a0-4719-bbca-56f839e51076" alt="Sidebar Screenshot 2" width="350" height="850" /></td>
-  </tr>
-</table>
-
-## 🚀 Live Demo 
-🔗  Try it live now:- [SLIDEBAR-2](https://slidebar-2.netlify.app/)
-
-
-
 ## 🧩 Key Features
 
 ### ✨ **Interactive Elements**
