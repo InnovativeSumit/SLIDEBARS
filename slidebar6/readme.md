@@ -2,23 +2,6 @@
 
 A **modern and interactive sidebar** built using **HTML**, **CSS**, and **JavaScript**. This sidebar can be easily integrated into any website or web application to provide a sleek and responsive navigation experience. Perfect for learning how to build interactive UI elements with a smooth user interface.
 
-
-## 📸 Screenshots
-
-Here's a preview of the sidebar:
-
-<table>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/0266e5be-06ba-45df-93e6-1572c82ec57e" alt="Sidebar Screenshot 2" width="300" height="850" /></td>
-  </tr>
-</table>
-
-## 🚀 Live Demo
-
-🔗  Try it live now:- [SLIDEBAR-6](https://innovativesumit.github.io/SLIDEBAR-6/)
-
-
-
 ## 🧩 Key Features
 
 ### ✨ **Interactive Elements**
